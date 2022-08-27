@@ -1,0 +1,5 @@
+ringnim python,manipur,friend
+deepti react,delhi,mentor
+jian python,loops,list
+teresa python,datatype,loops,list
+wonnao python,ifelse,variable
